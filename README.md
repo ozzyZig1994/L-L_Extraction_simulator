@@ -32,3 +32,7 @@ The liquid/liquid extraction process is suitable for separations of:
 ![](./Captura2.PNG)
 
 ![](./Captura3.PNG)
+
+If you wish to support my content it would be super appreciated a help from you!
+
+[![](./blue-button.png)](https://www.buymeacoffee.com/josuegalvan)
